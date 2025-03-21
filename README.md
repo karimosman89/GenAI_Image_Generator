@@ -1,1 +1,3 @@
-# GenAI_Image_Generator
+# GenAI Image Generator
+
+Generate images using Stable Diffusion.
